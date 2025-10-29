@@ -14,8 +14,7 @@ Features
 - Optional utilities: uptime, top, free, systemctl (script handles missing commands gracefully)
 **How to Use**
 - Clone the repository:
-**git clone https://github.com/yourusername/healthcheck-script.git
-cd healthcheck-script**
+**git clone https://github.com/rohith643/system-Health1**
 - Make the script executable:
 **chmod +x healthcheck.sh**
   - Run the script:
