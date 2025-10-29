@@ -1,0 +1,62 @@
+System Health Check Report
+=========================
+Date and Time: 2025-10-29 17:50:00
+
+System Uptime:
+-------------
+Up time: 5 days, 12 hours, 33 minutes
+
+CPU Load:
+---------
+CPU Load: 45.23%
+
+Memory Usage:
+-------------
+Total Memory: 16.00 GB
+Used Memory: 12.45 GB
+Free Memory: 3.55 GB
+Memory Usage: 77.81%
+
+Disk Usage:
+-----------
+Filesystem      Size    Used    Avail   Use%    Mounted on
+C:             500GB    325GB   175GB    65%    /
+D:             1.0TB    750GB   250GB    75%    /data
+
+Top 5 Memory-Consuming Processes:
+--------------------------------
+Name                    Memory(MB)   CPU%
+Chrome                    1245.67    12.5
+Visual Studio Code         856.34     8.2
+Docker Desktop            645.89      6.7
+Microsoft Teams           425.12      4.3
+Outlook                   387.45      3.1
+
+Service Status:
+--------------
+Windows Update Service: Running
+Windows Defender: Running
+Windows Firewall: Running
+Print Spooler: Running
+Remote Desktop: Stopped
+
+Network Status:
+--------------
+Primary Network Adapter: Connected
+IP Address: 192.168.1.100
+Network Speed: 1 Gbps
+Active Connections: 45
+
+System Temperature:
+-----------------
+CPU Temperature: 45°C
+GPU Temperature: 52°C
+
+Last Windows Updates:
+-------------------
+Security Update KB5029263: Installed on 2025-10-25
+Feature Update 25H2: Installed on 2025-10-20
+
+Report generated at: 2025-10-29 17:50:30
+Report saved to: Samplehealthlog.txt
+----------------------------------------
