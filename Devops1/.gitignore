@@ -1,0 +1,9 @@
+# Log files
+healthlog_*.txt
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# PowerShell transcripts
+*.txt
